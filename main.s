@@ -1,3 +1,5 @@
+// ACredits: A. Pan
+
 	.include "address_map_arm.s"
 /* 
  * This program demonstrates the use of interrupts using the KEY and timer ports. It
